@@ -75,7 +75,5 @@ typings/
 
 .tern-port
 
-.env
-
 .venv
 __pycache__
